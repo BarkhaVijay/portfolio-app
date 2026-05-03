@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background: transparent url;
+}
+body{
+    background:#14131a;
+    color:white;
+    overflow:hidden;
+    overflow: scroll;
+}
