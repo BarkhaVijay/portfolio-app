@@ -32,13 +32,13 @@ function Contact() {
         <h1 className='socialTitle'>Socials</h1>
          <p className='socialDesc'>Here you can connect with me on my social media</p>
          <div className='socialImgs'></div>
-         <a href="https://www.linkedin.com/in/barkha-vijay-618704261/"><img src={LinkedIn}alt="LinkedIn"className='socialImg'/></a>
+         <a href="https://www.linkedin.com/in/barkha-vijay-618704261/"target="_blank" rel="noopener noreferrer"><img src={LinkedIn}alt="LinkedIn"className='socialImg'/></a>
 
-         <a href="#"><img src={ Github}alt="Github"className='socialImg'/></a>
+         <a href="https://github.com/BarkhaVijay" target="_blank" rel="noopener noreferrer"><img src={ Github}alt="Github"className='socialImg'/></a>
 
-         <a href="https://www.instagram.com/_barkhavijay_/?hl=en"><img src={Instagram}alt="Instagram"className='socialImg'/></a>
+         <a href="https://www.instagram.com/_barkhavijay_/?hl=en" target="_blank" rel="noopener noreferrer"><img src={Instagram}alt="Instagram"className='socialImg'/></a>
 
-         <a href="https://www.facebook.com/profile.php?id=61564431690005"><img src={Facebook}alt="Facebook"className='socialImg'/></a>
+         <a href="https://www.facebook.com/profile.php?id=61564431690005" target="_blank" rel="noopener noreferrer"><img src={Facebook}alt="Facebook"className='socialImg'/></a>
 
 </div>
 
